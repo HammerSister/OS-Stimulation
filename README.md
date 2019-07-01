@@ -1,1 +1,8 @@
 # OS Stimulation
+Algorithm Design: For most programmers, this is the key course. You are welcome, this course covers 100% of the programmers. For non-programmers working on a computer, it is also necessary to have a basic understanding of algorithm design.
+
+Computational theory: I learned this course at the graduate level, but I think that only those who study the soul of the computer will need to learn this course.
+
+Network Science: Never studied. Definition: "Network Science is the science that studies the use of networks to describe physical, biological, and social phenomena and establish predictive models of these phenomena. This course is based on large-scale network mathematical modeling, massive dataset information retrieval algorithms, and algorithmic games. Explore the major elements of the Internet from the perspectives of e-commerce, including small world phenomena, power law distribution, sorting fusion algorithms, network crawling, hub nodes and authoritative nodes, clustering big data, stream algorithms, network routing, Nash equalization, Market clearing, mechanism design, auction theory, social network and other topics. " Frankly, I don't understand what this class is about. Brain storming type of course? ? ? If you don't understand, you will be set to a core course.
+
+Cryptography Foundation: A good course. Most websites that are not currently encrypted will be marked as unsafe by the browser. From this point you can see the importance of this course. At the same time, information security is an important topic in today's computer field. This course is necessary. But can you first take the cyber security foundation of the elective course into the compulsory course and then learn this.
