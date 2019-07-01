@@ -1,0 +1,5 @@
+isAdmin:true:userId:1:userName:admin:userPassword:admin
+isAdmin:false:userId:2:userName:zsj:userPassword:zsj
+isAdmin:false:userId:3:userName:xyy:userPassword:xyy
+isAdmin:false:userId:4:userName:lct:userPassword:lct
+isAdmin:false:userId:5:userName:xiaoming:userPassword:xiaoming
